@@ -1,11 +1,11 @@
 import './App.css';
 
-function App({ name }) {
+function App() {
   // console.log(props);
 
   return (
     <div className="App">
-      <h1>Hello {name}!</h1>
+      <h1>Hello!</h1>
     </div>
   );
 }
